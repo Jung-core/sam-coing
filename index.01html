@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<script src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/libs.js"></script>
+	<script src="js/common.js"></script>
+</head>
+<body>
+	<div id="wrap">
+		<header>
+			<div class="header">
+				<div class="header-wraper">
+					<h1 class="logo"><a href="#a">삼성코닝더드밴스글라스</a></h1>
+					<div class="utill">
+						<a href="#a">KOR</a><a href="#a">ENG</a>
+					</div>
+					<div class="sitemap">
+						<a href="#a">전체메뉴</a>
+					</div>	
+				</div>
+			</div>		
+		</header>
+		<section class="container visual">
+			<div class="contents" id="contents">
+				<div class="mainTop">
+					<div class="mainVisual swiper-container swiper-container-horizontal">
+						<ul class="swiperMain swiper-wrapper">
+							<li class="fullBg bg04 swiper-slide swiper-slide-duplicate">
+								<div class="visual"></div>
+							</li>
+							<li class="fullBg bg04 swiper-slide swiper-slide-duplicate">2</li>
+							<li class="fullBg bg04 swiper-slide swiper-slide-duplicate">3</li>
+						</ul>
+					</div>
+				</div>
+			</div>			
+		</section>	
+	</div>
+</body>
+</html>
